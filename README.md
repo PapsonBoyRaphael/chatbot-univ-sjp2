@@ -9,7 +9,7 @@ Objectifs :
 •  Améliorer l’accès à l’information : Fournir des réponses rapides et précises aux questions courantes.
 •  Réduire la charge de travail : Diminuer le nombre de demandes répétitives adressées au personnel administratif.
 •  Offrir un support 24/7 : Assurer une disponibilité constante pour répondre aux besoins des utilisateurs.
-•  Personnalisation de l'expérience utilisateur : Adapter les réponses en fonction du profil de l'utilisateur (étudiant, futur étudiant, etc.).
+•  Personnalisation de l'expérience utilisateur : Adapter les réponses en fonction du profil de l'utilisateur.
 
 ▌2. Architecture du Système
 
@@ -17,7 +17,6 @@ Le chatbot est basé sur l'architecture suivante :
 
 1. Interface utilisateur :
   •  Intégration sur le site web de l'université.
-  •  Possibilité d'intégration sur des plateformes de messagerie (ex : WhatsApp, Facebook Messenger).
 2. VectorShift AI Platform :
   •  Moteur de traitement du langage naturel (TLN).
   •  Base de connaissances (FAQ, informations sur les cours, les services, etc.).
